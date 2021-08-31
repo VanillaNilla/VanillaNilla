@@ -1,6 +1,6 @@
 ### Hi! I'm Alma! ❤ ❤ ❤
 
-![Sin título-3](https://user-images.githubusercontent.com/62974302/131443246-a1704ec1-16a3-44d1-906b-a5a4752ac555.png)
+![BANNER_VANI](https://user-images.githubusercontent.com/62974302/131444568-d0114ffa-8407-493a-8895-bda335aec62d.png)
 
 ```js
 const Vanilla = {
