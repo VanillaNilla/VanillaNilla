@@ -1,30 +1,31 @@
-### Hi! I'm Alma! ❤ ❤ ❤
+# Hi! I'm Alma! ❤ ❤ ❤
 
 ![BANNER_VANI](https://user-images.githubusercontent.com/62974302/131444568-d0114ffa-8407-493a-8895-bda335aec62d.png)
 
-```js
+## A little about me...
+
+  ```js
 const Vanilla = {
   pronouns: "she" | "her",
   code: [Javascript, HTML, CSS, Python],
   tools: [Bootstrap],
+  askMeAbout: ["web dev", "tech", "art", "graphic design","animation"],
   hobbies:  [Drawing, Singing, Coding, Painting],
   
- Learning: "I'm learning more about Python and C# :D"
+  Learning: "I'm learning more about Python and C# :D"
 }
 ```
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VanillaNilla&show_icons=true&theme=tokyonight)
 
-<!--
-**VanillaNilla/VanillaNilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=VanillaNilla&show_icons=true&theme=tokyonight" />
+</a>
 
-Here are some ideas to get you started:
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VanillaNilla&layout=compact" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+ ### I love connecting with different people so if you want to say hi, I'll be happy to meet you more! 😊
+
+
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: “Toy Story” is the first feature-length film fully modeled and created with the help of 3D technology.
