@@ -14,10 +14,10 @@ const Vanilla = {
   askMeAbout: ["web dev", "tech", "art", "graphic design","animation"],
   hobbies:  [Drawing, Singing, Coding, Painting],
   
-  Learning: "I'm learning more about Python and C# :D"
+  Learning: "I'm learning more about web technologies!"
 }
 ```
-<div class="container">
+
 <a href="https://github-profile-trophy.vercel.app">
   <img align="left" src="https://github-profile-trophy.vercel.app/?username=VanillaNilla&theme=dracula" />
 </a>
@@ -27,11 +27,14 @@ const Vanilla = {
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VanillaNilla&layout=compact" />
 </a>
-</div>
 
 
- ### I love connecting with different people so if you want to say hi, I'll be happy to meet you more! 😊
 
+ ### 🌏 I love connecting with different people so if you want to say hi, I'll be happy to meet you more! 🧀
 
-- 📫 How to reach me: alma.hj0606@gmail.com
-- ⚡ Fun fact: “Toy Story” is the first feature-length film fully modeled and created with the help of 3D technology.
+![](https://cdn.discordapp.com/attachments/862751877355798578/862760237131497522/BARRA.gif)
+- 👋🏻 How to reach me: alma.hj0606@gmail.com
+- 🎨 Sometimes i'm artist: 
+              https://www.instagram.com/vanilla_nilla66/
+              https://www.facebook.com/Timewithvanilla/
+- 🐭 Fun fact: “Toy Story” is the first feature-length film fully modeled and created with the help of 3D technology.
