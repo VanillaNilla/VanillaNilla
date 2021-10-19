@@ -17,9 +17,9 @@ const Vanilla = {
   Learning: "I'm learning more about Python and C# :D"
 }
 ```
-
+<div class="container">
 <a href="https://github-profile-trophy.vercel.app">
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=VanillaNilla&theme=dracula" />
+  <img align="left" src="https://github-profile-trophy.vercel.app/?username=VanillaNilla&theme=dracula" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=VanillaNilla&show_icons=true&theme=tokyonight" />
@@ -27,9 +27,11 @@ const Vanilla = {
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VanillaNilla&layout=compact" />
 </a>
+</div>
+
 
  ### I love connecting with different people so if you want to say hi, I'll be happy to meet you more! 😊
 
 
-- 📫 How to reach me: ...
+- 📫 How to reach me: alma.hj0606@gmail.com
 - ⚡ Fun fact: “Toy Story” is the first feature-length film fully modeled and created with the help of 3D technology.
