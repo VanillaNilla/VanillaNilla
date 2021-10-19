@@ -18,17 +18,19 @@ const Vanilla = {
 }
 ```
 
-<a href="https://github-profile-trophy.vercel.app">
-  <img align="left" src="https://github-profile-trophy.vercel.app/?username=VanillaNilla&theme=dracula" />
-</a>
+<div align="center"><a href="https://github-profile-trophy.vercel.app">
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=VanillaNilla&theme=dracula&row=1" />
+</a></div>
+<br>
+
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=VanillaNilla&show_icons=true&theme=tokyonight" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=VanillaNilla&show_icons=true&theme=tokyonight" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VanillaNilla&layout=compact" />
 </a>
 
-
+<br><br><br>
 
  ### 🌏 I love connecting with different people so if you want to say hi, I'll be happy to meet you more! 🧀
 
