@@ -1,10 +1,11 @@
 # Hi! I'm Alma! ❤ ❤ ❤
-
-![BANNER_VANI](https://user-images.githubusercontent.com/62974302/131444568-d0114ffa-8407-493a-8895-bda335aec62d.png)
+![banner_vani_git](https://user-images.githubusercontent.com/62974302/193394523-0eea5773-3a89-42f5-b6f6-0681fb6a58df.png)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=VanillaNilla.visitor-badge)
 <!-- <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/[ICON SLUG].svg" />
 <img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/[ICON SLUG].svg" /> -->
 ## A little about me...
+
+
 
   ```js
 const Vanilla = {
