@@ -5,8 +5,6 @@
 <img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/[ICON SLUG].svg" /> -->
 ## A little about me...
 
-
-
   ```js
 const Vanilla = {
   pronouns: "she" | "her",
@@ -19,8 +17,6 @@ const Vanilla = {
 }
 ```
 
-
-
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=VanillaNilla&show_icons=true&theme=tokyonight" />
 </a>
@@ -28,7 +24,7 @@ const Vanilla = {
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VanillaNilla&layout=compact" />
 </a>
 
-<br><br><br>
+<br><br>
 
  ### 🌏 I love connecting with different people so if you want to say hi, I'll be happy to meet you more! 🧀
 
