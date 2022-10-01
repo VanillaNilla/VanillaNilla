@@ -1,5 +1,5 @@
 # Hi! I'm Alma! ❤ ❤ ❤
-![banner_vani_git](https://user-images.githubusercontent.com/62974302/193395013-77458cf0-d42a-4fa6-b59c-5a5285fd1e02.png)
+![banner_vani_git](https://user-images.githubusercontent.com/62974302/193395143-d8bc7b28-7e35-47e2-9ff2-9b5d2bdeeb69.png)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=VanillaNilla.visitor-badge)
 <!-- <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/[ICON SLUG].svg" />
 <img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/[ICON SLUG].svg" /> -->
