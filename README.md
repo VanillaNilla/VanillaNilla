@@ -19,10 +19,7 @@ const Vanilla = {
 }
 ```
 
-<div align="center"><a href="https://github-profile-trophy.vercel.app">
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=VanillaNilla&theme=dracula&row=1" />
-</a></div>
-<br>
+
 
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=VanillaNilla&show_icons=true&theme=tokyonight" />
