@@ -7,13 +7,12 @@
 
   ```js
 const Vanilla = {
-  pronouns: "she" | "her",
-  code: [Javascript, HTML, CSS, Python],
-  tools: [Bootstrap],
-  askMeAbout: ["web dev", "tech", "art", "graphic design","animation"],
-  hobbies:  [Drawing, Singing, Coding, Painting],
-  
-  Learning: "I'm learning more about web technologies!"
+    pronouns: "she" | "her",
+    code: [Javascript, HTML, CSS, Python],
+    tools: [Bootstrap],
+    askMeAbout: ["web dev", "tech", "art", "graphic design","animation"],
+    hobbies:  [Drawing, Singing, Coding, Painting],
+    learning: "I'm learning more about web technologies!"
 }
 ```
 
