@@ -29,13 +29,13 @@ const Alex = {
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=VanillaNilla&show_icons=true&theme=tokyonight" />
 </a>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vanillanilla&" alt="vanillanilla" /></p>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VanillaNilla&layout=compact" />
 </a>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vanillanilla&label=Profile%20views&color=0e75b6&style=flat" alt="vanillanilla" /> </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vanillanilla&" alt="vanillanilla" /></p>
 
  ### 🌏 I love connecting with different people so if you want to say hi, I'll be happy to meet you more! 🧀
 
