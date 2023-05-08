@@ -14,13 +14,15 @@
 ## A little about me...
 
   ```js
-const Vanilla = {
+const Alex = {
+    name: "Alma Alejandra Hernández Jiménez",
+    age: 21,
     pronouns: "she" | "her",
-    code: [Javascript, HTML, CSS, Python],
-    tools: [Bootstrap],
-    askMeAbout: ["web dev", "tech", "art", "graphic design","animation"],
-    hobbies:  [Drawing, Singing, Coding, Painting],
-    learning: "I'm learning more about web technologies!"
+    code: [Javascript, HTML, CSS],
+    tools: [Bootstrap, Tailwind, Sass],
+    askMeAbout: ["web dev", "tech", "graphic design","art"],
+    hobbies:  [Coding, Drawing, Designing, Reading],
+    learning: "I'm learning more about web technologies and UX/UI!"
 }
 ```
 
