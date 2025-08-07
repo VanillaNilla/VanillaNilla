@@ -16,13 +16,14 @@
   ```js
 const Alex = {
     name: "Alma Alejandra Hernández Jiménez",
-    age: 21,
+    age: 24,
     pronouns: "she" | "her",
-    code: [Javascript, HTML, CSS],
+    code: [Javascript, HTML, CSS, Python],
     tools: [Bootstrap, Tailwind, Sass],
-    askMeAbout: ["web dev", "tech", "graphic design","art"],
+    databases: [MySQL, Postgres]
+    askMeAbout: ["web dev", "tech", "graphic design","art", "UX/UI","gaming"],
     hobbies:  [Coding, Drawing, Designing, Reading],
-    learning: "I'm learning more about web technologies and UX/UI!"
+    learning: "I'm learning more about Cloud Technologies!"
 }
 ```
 
