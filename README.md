@@ -1,5 +1,6 @@
 # Hi! I'm Alma! ❤ ❤ ❤
-![banner_vani_git](https://user-images.githubusercontent.com/62974302/193395143-d8bc7b28-7e35-47e2-9ff2-9b5d2bdeeb69.png)
+
+<img width="1000" height="312" alt="if success() == True celebrate() while success() == False try_again() keep_growing() (1)" src="https://github.com/user-attachments/assets/92e5640f-a3ec-4e37-9051-b115f1b7a001" />
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">
