@@ -1,4 +1,4 @@
-# Hi! I'm Alma! ❤ ❤ ❤
+# ❤ Hi, I'm Alma — building cool stuff, one commit at a time 🍒
 
 <img width="1000" height="312" alt="if success() == True celebrate() while success() == False try_again() keep_growing() (1)" src="https://github.com/user-attachments/assets/92e5640f-a3ec-4e37-9051-b115f1b7a001" />
 
